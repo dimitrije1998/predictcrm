@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*1&%93irv@)%2h$znp@escj^$gx^z*+j3&1t=)puz@#a6db7(s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.predict-crm.com', 'predictcrm.com']
 
 
 # Application definition
